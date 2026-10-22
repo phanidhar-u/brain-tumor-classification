@@ -1,6 +1,6 @@
 """
 Brain Tumor Classification - Complete Training Pipeline
-Author: Antigravity Team
+Author: Phanidhar Upadhyaya
 Description:
     Clean, robust training pipeline for 4-class MRI Brain Tumor Classification:
     - glioma
